@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "titulo": "Nota 1",
+      "descripcion": "Contenido de la nota",
+      "importancia": "High",
+      "id": 1
+    },
+    {
+      "titulo": "Nota 2",
+      "descripcion": "Contenido de la nota",
+      "importancia": "Medium",
+      "id": 2
+    },
+    {
+      "titulo": "Nota 3",
+      "descripcion": "Contenido de la nota",
+      "importancia": "Low",
+      "id": 3
+    },
+    {
+      "titulo": "nota personal de Mariana",
+      "descripcion": "Al colocar /login o /register, pueden visualizar las mencionadas paginas (no tienen funcionalidad.), al dar click en crear cuenta, los dirige al register, al dar click en ingresar, los lleva al login, y al dar click en login los lleva a la pagina actual...",
+      "importancia": "High",
+      "id": 4
+    }
+  ]
+}
